@@ -1,0 +1,25 @@
+!
+! Title: ppfeufer/adguard-filter-list
+! Last modified: 2025-10-25T18:04:40.142Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.39
+!
+||acfeedbackws.icloud.com^
+||api-adservices.apple.com^
+||books-analytics-events.apple.com^
+||books-analytics-events.news.apple-dns.net^
+||dzc-metrics.mzstatic.com^
+||feedbackws.icloud.com^
+||iadsdk.apple.com^
+||metrics.apple.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||notes-analytics-events.apple.com^
+||notes-analytics-events.news.apple-dns.net^
+||securemetrics.apple.com^
+||securemvt.apple.com^
+||stocks-analytics-events.apple.com^
+||stocks-analytics-events.news.apple-dns.net^
+||supportmetrics.apple.com^
+||weather-analytics-events.apple.com^
+||weather-analytics-events.news.apple-dns.net^

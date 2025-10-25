@@ -1,0 +1,15 @@
+!
+! Title: ppfeufer/adguard-filter-list
+! Last modified: 2025-10-25T18:04:00.667Z
+!
+! Compiled by @adguard/hostlist-compiler v1.0.39
+!
+||cdn.appround.biz^
+||cdn.download.sweetpacks.com^
+||cdn.insta.playbryte.com^
+||cdn.msdwnld.com^
+||cdn.mypcbackup.com^
+||inno.bisrv.com^
+||installer.betterinstaller.com^
+||nsis.bisrv.com^
+||tracking.opencandy.com.s3.amazonaws.com^
