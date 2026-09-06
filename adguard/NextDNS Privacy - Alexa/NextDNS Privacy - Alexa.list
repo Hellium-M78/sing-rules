@@ -1,0 +1,9 @@
+!
+! Title: ppfeufer/adguard-filter-list
+! Last modified: 2026-09-06T17:05:05.186Z
+!
+! Compiled by @adguard/hostlist-compiler v2.1.1
+!
+||data.alexa.com^
+||device-metrics-us.amazon.com^
+||device-metrics-us-2.amazon.com^
