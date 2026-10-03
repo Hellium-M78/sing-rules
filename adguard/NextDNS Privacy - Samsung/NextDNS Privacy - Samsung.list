@@ -1,0 +1,10 @@
+!
+! Title: ppfeufer/adguard-filter-list
+! Last modified: 2026-10-03T17:05:01.680Z
+!
+! Compiled by @adguard/hostlist-compiler v2.1.1
+!
+||nmetrics.samsung.com^
+||insights.samsung.com^
+||analytics.samsungknox.com^
+||bigdata.ssp.samsung.com^
